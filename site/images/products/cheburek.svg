@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" fill="none" role="img">
+  <title>Заглушка: иллюстрация чебурека</title>
+  <rect width="800" height="560" fill="#f3f7fb"/>
+  <circle cx="400" cy="292" r="176" fill="#e5f0f6"/>
+  <ellipse cx="400" cy="404" rx="156" ry="22" fill="#d5e4ef"/>
+  <g transform="translate(400 300) rotate(-8)">
+    <path d="M-150 36
+      C-120 -90 120 -90 150 36
+      C90 58 -90 58 -150 36 Z" fill="#e7b56a"/>
+    <path d="M-132 34
+      C-104 -62 104 -62 132 34
+      C80 48 -80 48 -132 34 Z" fill="#f0cb86"/>
+    <path d="M-150 36 C-108 8 -40 0 0 8 C40 0 108 8 150 36" fill="none" stroke="#c48a3e" stroke-width="8" stroke-linecap="round"/>
+    <path d="M-120 28
+      C-90 -48 90 -48 120 28" fill="none" stroke="#f8e2b4" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+    <circle cx="-40" cy="-6" r="7" fill="#d89a48" opacity="0.45"/>
+    <circle cx="36" cy="6" r="5" fill="#d89a48" opacity="0.35"/>
+    <circle cx="8" cy="-24" r="4" fill="#c9843a" opacity="0.3"/>
+  </g>
+  <g fill="#7ea9c6">
+    <circle cx="236" cy="168" r="3"/>
+    <circle cx="560" cy="188" r="2.4"/>
+    <path d="M250 206 l2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2 z"/>
+  </g>
+</svg>
